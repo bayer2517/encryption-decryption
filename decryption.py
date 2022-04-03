@@ -2,7 +2,7 @@ import pyAesCrypt
 import os
 
 
-# Function for encryption file
+# Function for decryption file
 
 def decryption(file, password):
     # buffer size
